@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DistributedTinyRay/Debug
+/DistributedTinyRay/DistributedTinyRay/x64
+/DistributedTinyRay/DistributedTinyRay/Debug
+
+/DistributedTinyRay/x64/Debug
+/DistributedTinyRay/DistributedTinyRay.VC.db
+/DistributedTinyRay/DistributedTinyRayClient/x64
+/DistributedTinyRay/DistributedTinyRayClient/Debug
+/DistributedTinyRay/DistributedTinyRay.VC.VC.opendb
+/DistributedRayTracerClient/x64
+/DistributedRayTracerServer/x64
+/x64
