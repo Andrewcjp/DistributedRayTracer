@@ -1,1 +1,2 @@
-DistributedRayTracer/DistributedRayTracerServer/include/GLFW/glfw3.h linguist-vendored
+DistributedRayTracer/DistributedRayTracerServer/include/GLFW/* linguist-vendored
+glfw3.h linguist-vendored
